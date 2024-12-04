@@ -1,2 +1,2 @@
 # Streamlit Projects
-A collection of projects using the Streamlit Python library
+A collection of projects using the Streamlit library for Python
